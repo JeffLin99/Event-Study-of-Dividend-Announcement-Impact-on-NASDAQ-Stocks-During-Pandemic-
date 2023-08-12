@@ -6,4 +6,5 @@ Economic slowdown coupled with policies such as large-scale social restrictions 
 Therefore, examining the impact of COVID-19 on stock market volatility compared to pre-outbreak conditions can provide valuable insights for future academic research. This study focuses on the NASDAQ index and its component stocks, exploring and researching the following two questions:
 
 Question 1: How did the abnormal returns of listed companies in the NASDAQ, within ±5 days of cash dividend announcement, compare before and during the COVID-19 pandemic?
+
 Question 2: What differences are observed in the market's reaction to dividend announcements before and during the COVID-19 pandemic?
